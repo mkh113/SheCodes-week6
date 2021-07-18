@@ -1,0 +1,42 @@
+body {
+  padding: 50px 50px 50px 50px;
+  background: linear-gradient(
+    109.6deg,
+    rgb(255, 221, 225) 11.2%,
+    rgb(255, 255, 255) 92.2%
+  );
+}
+h2,
+h3,
+p {
+  padding-top: 10px;
+  font-family: "Sanchez", serif;
+  color: #152e50;
+}
+span {
+  font-size: 100px;
+}
+p {
+  font-size: 20px;
+  font-weight: bold;
+}
+a {
+  font-size: 18px;
+  color: #152e50;
+}
+button {
+  display: block;
+}
+.p-2 {
+  font-size: 20px;
+  font-family: "Sanchez", serif;
+  font-weight: bold;
+  color: #152e50;
+}
+.pic {
+  font-size: 50px;
+}
+.container {
+  background: #ffefd5;
+  text-align: center;
+}
